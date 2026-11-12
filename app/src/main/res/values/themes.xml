@@ -1,0 +1,4 @@
+<resources>
+    <!-- Tema claro: el PDF se dibuja sobre fondo blanco, así el texto sale en negro -->
+    <style name="Theme.RA5GenerarInformes" parent="Theme.Material3.Light.NoActionBar" />
+</resources>
